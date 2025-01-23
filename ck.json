@@ -24,6 +24,10 @@
       "url": "./XYQ.json",
       "name": "高天流云 XYQ"
     },
+      {
+      "url": "./dianshi.json",
+      "name": "JYTVBOX"
+    },
     {
       "name": "📚公众号：拾光趣乐屋📚",
       "url": "https://4708.kstore.space/omg/hollo.json"
