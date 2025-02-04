@@ -1,0 +1,533 @@
+央视,#genre#
+CCTV-1综合,http://tv.jkliu.cn:35455/itv/1000000005000265001.m3u8?cdn=ystenlive&Contentid=1000000005000265001
+CCTV-2财经,http://tv.jkliu.cn:35455/itv/1000000001000023315.m3u8?cdn=ystenlive&Contentid=1000000001000023315
+CCTV-3综艺,http://tv.jkliu.cn:35455/itv/1000000005000265003.m3u8?cdn=ystenlive&Contentid=1000000005000265003
+CCTV-4中文国际,http://tv.jkliu.cn:35455/itv/1000000005000265004.m3u8?cdn=ystenlive&Contentid=1000000005000265004
+CCTV-5体育,http://tv.jkliu.cn:35455/itv/1000000005000025222.m3u8?cdn=ystenlive&Contentid=1000000005000025222
+CCTV-5+体育赛事,http://tv.jkliu.cn:35455/itv/1000000005000265016.m3u8?cdn=ystenlive&Contentid=1000000005000265016
+CCTV-6电影,http://tv.jkliu.cn:35455/itv/1000000001000001737.m3u8?cdn=ystenlive&Contentid=1000000001000001737
+CCTV-7国防军事,http://tv.jkliu.cn:35455/itv/1000000001000024341.m3u8?cdn=ystenlive&Contentid=1000000001000024341
+CCTV-8电视剧,http://tv.jkliu.cn:35455/itv/1000000005000265008.m3u8?cdn=ystenlive&Contentid=1000000005000265008
+CCTV-9纪录,http://tv.jkliu.cn:35455/itv/1000000001000014583.m3u8?cdn=ystenlive&Contentid=1000000001000014583
+CCTV-10科教,http://tv.jkliu.cn:35455/itv/1000000001000023734.m3u8?cdn=ystenlive&Contentid=1000000001000023734
+CCTV-11戏曲,http://tv.jkliu.cn:35455/itv/1000000005000265011.m3u8?cdn=ystenlive&Contentid=1000000005000265011
+CCTV-12社会与法,http://tv.jkliu.cn:35455/itv/1000000001000032494.m3u8?cdn=ystenlive&Contentid=1000000001000032494
+CCTV-13新闻,http://tv.jkliu.cn:35455/itv/1000000002000021303.m3u8?cdn=ystenlive&Contentid=1000000002000021303
+CCTV-14少儿,http://tv.jkliu.cn:35455/itv/1000000001000008170.m3u8?cdn=ystenlive&Contentid=1000000001000008170
+CCTV-15音乐,http://tv.jkliu.cn:35455/itv/1000000005000265014.m3u8?cdn=ystenlive&Contentid=1000000005000265014
+CCTV-16奥林匹克,http://tv.jkliu.cn:35455/itv/1000000006000233002.m3u8?cdn=ystenlive&Contentid=1000000006000233002
+CCTV-17农业农村,http://tv.jkliu.cn:35455/itv/1000000006000268004.m3u8?cdn=ystenlive&Contentid=1000000006000268004
+
+||IPmigu,#genre#
+CCTV-1综合,https://www.freetv.top/migu/608807420.m3u8?migutoken=b0831136e327a93587e1920b5595d227c66a7f1a6aabb8e7532bc0682db88a37af6a27b88fde476a02c5f83db38f3b3e864bcf981c57f7fed9877095a1e2fac1a149f0f8869c5c1dc147bee7be
+CCTV-2财经,https://www.freetv.top/migu/631780532.m3u8?migutoken=f1ea6162bf184749e3dee945ef1c611efc841f280c1c972432874810b37debb4321af74f5ebcd6c41d7e0980cae4b591eaddcbd8a4b834c71491dbe3a6abacbbd5bcb2e9a43458f6987dbc3f23
+CCTV-3综艺,https://www.freetv.top/migu/624878271.m3u8?migutoken=ab337350191d49738c0947c4edfb2d72445dadbfd53e36b287a30881028262fffbe9ba284ac062a14452f0d90c7a75d16101edb3adc14999ae8771aabc77b40c78d14137bb14e68fd6cd1a8d67
+CCTV-4中文国际,https://www.freetv.top/migu/631780421.m3u8?migutoken=fe6cd1545652624283a2e4057669faa6c3e8bf614112c86afd0cdce8e7218377589401d30c999378eac2d10283a75d3cead5332d152c8aa14a139c832323984a8a510f738a0cacdcc21e30686f
+CCTV-4欧洲,https://www.freetv.top/migu/608807419.m3u8?migutoken=bd09912aa390680d15193bb1059d84e81336fcfa814345fc680e6a5167f711c7a851ff6a9fb15deeaf831395b2a2050558385a2a91cfff87fd84d7578ffa61e6f7ef26c1392d93c31310cf8f64
+CCTV-4美洲,https://www.freetv.top/migu/608807416.m3u8?migutoken=d4fcb83c35a65a30fb6f1cd7a7fad83b011b8ad39c6a2466f4ed1393af4a146f4a4989d2e7e4ee52ba36afec932b60d398e4dfe224cb5309a24fa77b83677e24bdd919bf7562dfc9703cb95872
+CCTV-5体育,https://www.freetv.top/migu/641886683.m3u8?migutoken=f4028150ccebb24672bb134ff9263dc2fa555f760bd7f0624f98a260402d38ab91417925cf800517a7c1b877a15425e85b65b6a16be7fe88d145c2cb2d42af684846c5a89a5c22eb739e0e52cf
+CCTV-5+体育赛事,https://www.freetv.top/migu/641886773.m3u8?migutoken=2725923dc731f340aa761620c3dc1841866d2a5734af94919f920321144434ccb32107fea453a21d739f1acbd6dc1df1c659dfc3ed4f15502642b270cfa4c2716fe012c9b9686f4c1ca82c3cc8
+CCTV-6电影,https://www.freetv.top/migu/624878396.m3u8?migutoken=0d8588633c58f08d2bb7c5dee4aefd277a9cb96188c78bdc8952d2d9706771bc03e699a51fee7e21bb7943cf1a6e95b40d3cd44969dd935526211d57d91a0fd2db4824cf962245d0e1a40cd557
+CCTV-7国防军事,https://www.freetv.top/migu/673168121.m3u8?migutoken=44446ab398991313e6a822efdaec82f3b845a2e8f141c172aa857c477255724bbb28fc01d33f764c51106c446af1c57e8815b58822075b194f4cf55cde28fe55f54330d4586c92e75e8aa50a48
+CCTV-8电视剧,https://www.freetv.top/migu/624878356.m3u8?migutoken=6711ae6ca5509da380a6a30bd995047b1ae797583ca2dd0083a8d8b8bb2ba6fa3bb6b0bc233433fe5d323af8082c0dd1ac77b23d96c0acf9f2a70a565ee34dd210938f6eb56ca096b8f5d739d8
+CCTV-9纪录,https://www.freetv.top/migu/673168140.m3u8?migutoken=a6f3e71bb2bb9d74426a1761b5d2daf69d595aebfafc6e4a7bac09190d4545961d1cc02d05117f0a2e2ef42ebdc9f2520b8f601aab6252de7373f68c95aa3277f6c51bae97dd75144efc7ed543
+CCTV-10科教,https://www.freetv.top/migu/624878405.m3u8?migutoken=f0b86560ac2db6d1739b2d3933454ec45ad77c674c2d819d21044045a22081162f8b0fb669c07ed1e27c89443736c0d5a57dbe9c236c780256572cc723d44356e6faeb14252611ed5fe94f4e51
+CCTV-11戏曲,https://www.freetv.top/migu/667987558.m3u8?migutoken=ddfbce34f49677b64c83a71c6ad66f99e66342b5d60e6508ff1f73b30c135b124d1686291510ef3897ed1bb8b0364f9727964bc3a2b8cbfca603679153658eeb91dc60f4173acb40b4358155ca
+CCTV-12社会与法,https://www.freetv.top/migu/673168185.m3u8?migutoken=ff6a5a89e6ad0f73cd78424df3be0abe3743e8bbd37698f2dcee8ece0d6ffbe0c1205c704c08924958889799dcc66d9333f4273e5dc9ead670713fd2b2292e201873fb66020ec85899c7bd2a05
+CCTV-13新闻,https://www.freetv.top/migu/608807423.m3u8?migutoken=984eeb69d8d27bb312a76d64b235debb761494aa4ea784c55fdf8036de050dd51ac220cf3fcdf76325b5b2e74ac94f4c57ff144b796fe1e61fe310bff6e9ef75029c570e0368c2c889015ae948
+CCTV-14少儿,https://www.freetv.top/migu/624878440.m3u8?migutoken=8f6263d4f2266e519927a4f86e6ae5fbdfac6172b48ea481b789a04b7a660d66b86b845e5855e2c20c21642714af219befd11683228eb0ce1fca8c3be8e079693b098e81b933fe935ccdd70381
+CCTV-15音乐,https://www.freetv.top/migu/673168223.m3u8?migutoken=2e447cfb236b9b9208459f01d54ae98883acf054a4e4609e30d1be458e4e7a995a0759ed44dbd259e7056bccc72093ec50e04a2928f93baac81f4bd99cbbc124ff2052a338074106ac0ba6ff07
+CCTV-17农业农村,https://www.freetv.top/migu/673168256.m3u8?migutoken=cf66ef854495ba1b54b33614854cb3fa8d349cbfd2c569443350ddd5881df8f56b04f93b94ac7e77059d5474a28dd107e8471cd79493d12b367acc72d3475cc8f11168388c82a3d33c3e64191f
+||四川移动2,#genre#
+CCTV1,http://36.106.166.59:16777/udp/225.1.1.120:5002#http://z.b.bkpcp.top/m.php?id=cctv1#http://jf.jxx2023.work:40446/tsfile/live/0001_1.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv1.m3u8#https://www.freetv.top/migu/608807420.m3u8?migutoken=184a95f0cdaaf7c1f3c7b4cd06d432af7234562e68074726eac10898c158cf1eea49819ced71b5e3d2f3ea0023ff71f8062e39a0a92ffd236a2c1ef4a30ca7f3cb03548908d23e6c6d685437e2
+CCTV2,http://36.106.166.59:16777/udp/225.1.1.133:5002#http://z.b.bkpcp.top/m.php?id=cctv2#http://jf.jxx2023.work:40446/tsfile/live/0002_1.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv2.m3u8#https://www.freetv.top/migu/631780532.m3u8?migutoken=9bacb748dc772b1cfcddf6e6373e3319c6d82105f221862932e3b30a6dc4843c93ace2108ab1d598c2d89ef8eb4225888737ce5895be20612ea7753d025151b9a913bd6fc98ff7666da5979f1d
+CCTV3,http://36.106.166.59:16777/udp/225.1.1.158:5002#http://z.b.bkpcp.top/m.php?id=cctv3#http://jf.jxx2023.work:40446/tsfile/live/0003_1.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv3.m3u8#https://www.freetv.top/migu/624878271.m3u8?migutoken=35ee1318e92e1d47aa4e9ad2f98c1ca771a9ca57db36d1e18c3a4fabedd68b40ee0c4c4724347e54708380241e58d714dde21dcbd0f2eff4373c9d9f7f1508646f22febd08f5c3a8c755f6ef1e
+CCTV4,http://36.106.166.59:16777/udp/225.1.1.150:5002#http://z.b.bkpcp.top/m.php?id=cctv4#http://jf.jxx2023.work:40446/tsfile/live/1021_1.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv4.m3u8#https://www.freetv.top/migu/631780421.m3u8?migutoken=8dc7b786c408976ee73b6ee5a0e7bf7de8ed82ed22f8668130fa8f17f943f9aeefa99d71320e4b5ac6c57c70025c65d2b4c31a9dfca1ebed552d0e3d722521423806670cc55bb626ba456b64fe
+CCTV5,http://36.106.166.59:16777/udp/225.1.1.160:5002#http://z.b.bkpcp.top/m.php?id=cctv5#http://jf.jxx2023.work:40446/tsfile/live/0005_1.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv5.m3u8#https://www.freetv.top/migu/641886683.m3u8?migutoken=6e3c4a6fba0be5e4060d1c8abab920c2a8ee3308ee2e5a373bad466d9c1c0c3815b96ff56d6b8aab1f7440fc34813d288efe932e05cf0594d7b1a4eaa542a95508f64bbc8423a4e814954a0913
+CCTV5+,http://36.106.166.59:16777/udp/225.1.1.121:5002#http://z.b.bkpcp.top/m.php?id=cctv5p#http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv5p#https://tvpull.careryun.com/tv/cctv5+.m3u8#https://www.freetv.top/migu/641886773.m3u8?migutoken=04826a9d5cfc1d3166ded238eb3806d3454207482687b55dbe79a6feb6b4c046e0698d1e7b284da304040eae0ba7b6e833ace3e48213d98981589f226722524cddab32a63d58c1c4e60a091000
+CCTV6,http://36.106.166.59:16777/udp/225.1.1.195:5002#http://z.b.bkpcp.top/m.php?id=cctv6#http://jf.jxx2023.work:40446/tsfile/live/0006_1.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv6.m3u8#https://www.freetv.top/migu/624878396.m3u8?migutoken=cf8aa2ae484a26a284790c996f43ed3d911dfba0ee5662ecc4c55b38098e9337cf10f0ac3894a85627dcfe0492addd1d07ff6e3aa6f467d0a2f30f53c4d0ce2a4686f74d46c050c0e010f46a65
+CCTV7,http://36.106.166.59:16777/udp/225.1.1.138:5002#http://z.b.bkpcp.top/m.php?id=cctv7#http://jf.jxx2023.work:40446/tsfile/live/0007_1.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv7.m3u8#https://www.freetv.top/migu/673168121.m3u8?migutoken=574d7f499abe28260750cc94be57fac402b5f84b72ecb907cf459ce8d58381c92f1a7208e1b83a752dcb0500c1839caea4e4747510bac25b9090fa959b172ce5389a900b4612dde9e9d594cf2e
+CCTV8,http://36.106.166.59:16777/udp/225.1.1.196:5002#http://z.b.bkpcp.top/m.php?id=cctv8#http://jf.jxx2023.work:40446/tsfile/live/0008_1.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv8.m3u8#https://www.freetv.top/migu/624878356.m3u8?migutoken=77954cedc9129b5a32fc5051e38d53f2a899c7ac8a3816f202e171a39033d50f1e215095f4684658c35d35acfba5b76b4dfc1a9a6a0ec9fa3c481dee98b5d3f1cb4420d2aa955486a1f38d735e
+CCTV9,http://36.106.166.59:16777/udp/225.1.1.119:5002#http://z.b.bkpcp.top/m.php?id=cctv9#http://jf.jxx2023.work:40446/tsfile/live/0011_3.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv9.m3u8#https://www.freetv.top/migu/673168140.m3u8?migutoken=70f89f57af3b961c4266d3657e4e2bed7511bb081c6f118dec56c9cb101146db53ddfdbba9b52724c71e79f51bfe5806d61d41f8429293537387c552fed0c21e259ae489a2a54a8accda0abf71
+CCTV10,http://36.106.166.59:16777/udp/225.1.1.140:5002#http://z.b.bkpcp.top/m.php?id=cctv10#http://jf.jxx2023.work:40446/tsfile/live/0010_1.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv10.m3u8#https://www.freetv.top/migu/624878405.m3u8?migutoken=a825f44b603419477b95fed9f1e947fea9e27bcde29c94cf67aec76845bd588aa5c9914b79d29cb3014756c2909a95f0941589b5faaddc8b9eba64ec444d9c9999083bc0240af4f194167d81e3
+CCTV11,http://36.106.166.59:16777/udp/225.1.2.192:5002#http://z.b.bkpcp.top/m.php?id=cctv11#http://jf.jxx2023.work:40446/tsfile/live/0011_2.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv11.m3u8#https://www.freetv.top/migu/667987558.m3u8?migutoken=1d0a7c51349d0d29392d62f5685c0adeccb58bc9a3ffea11a91caa97486b3676f1419283c7373cda120fc07d90d911e4191c58663b10666354a5140046e37437b3dfa6cb78242873fb16b97565
+CCTV12,http://36.106.166.59:16777/udp/225.1.1.142:5002#http://z.b.bkpcp.top/m.php?id=cctv12#http://jf.jxx2023.work:40446/tsfile/live/0012_1.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv12.m3u8#https://www.freetv.top/migu/673168185.m3u8?migutoken=dd69c6da4ca875bfa3b2c373a896be579823c971f68c14aae1624ddc25a0b5bbf046484c0809601c25014abc49cfbf2f72bf0c59ab5ff81f304a187856c7a50e4d2b12f9eaf5d5627b50786e85
+CCTV13,http://36.106.166.59:16777/udp/225.1.2.193:5002#http://z.b.bkpcp.top/m.php?id=cctv13#http://jf.jxx2023.work:40446/tsfile/live/0013_1.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv13.m3u8#https://www.freetv.top/migu/608807423.m3u8?migutoken=776326ca258673fca618a4f3a2ff6e001516e1bd1de00a273f9321b167eace944b1fea149e58d9f61f99fdcb505524330bcadd896ad46e9264a6c57fcd05b0e7b924e3462804a5228697c43f3f
+CCTV14,http://36.106.166.59:16777/udp/225.1.1.144:5002#http://z.b.bkpcp.top/m.php?id=cctv14#http://jf.jxx2023.work:40446/tsfile/live/1058_1.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv14.m3u8#https://www.freetv.top/migu/624878440.m3u8?migutoken=b1f130236741614ca1eaccd92217632731b3c3c0d831bbb7a25004e2ed6d8570b8de27efe2abc85d27a26651d421475c7d50ad99aa55c4aaf55222863fd9d0c80e6d6cf7b8ed52ec2e6cebdd95
+CCTV15,http://36.106.166.59:16777/udp/225.1.2.194:5002#http://z.b.bkpcp.top/m.php?id=cctv15#http://jf.jxx2023.work:40446/tsfile/live/0015_2.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv15.m3u8#https://www.freetv.top/migu/673168223.m3u8?migutoken=50dc3ccc2d27d7a93259df8360e0b3d4440519a8a4f9c636cce2d1bab0ddd72f5ecd496a69a4292eca1015e4c44727f9a6ee935a536f0720d3b21bee7f1c53aab112b3ab2e6aeb9982837ab99a
+CCTV16,http://36.106.166.59:16777/udp/225.1.2.237:5002#http://z.b.bkpcp.top/m.php?id=cctv16#http://www.douzhicloud.site:35455/itv/5000000008000023254.m3u8?cdn=bestzb#http://li0580.top:35455/rptv/G_CCTV-16-4K.m3u8?license=gitv
+CCTV17,http://36.106.166.59:16777/udp/225.1.2.52:5002#http://z.b.bkpcp.top/m.php?id=cctv17#http://jf.jxx2023.work:40446/tsfile/live/0019_1.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv17.m3u8#https://www.freetv.top/migu/673168256.m3u8?migutoken=dff047a9026f526223c0ed1adbfabbe258e37787a9dbf6c13ddfa3dfc5be6fc055e4ec23f97b75ae545c0a460100ac52ba7ebcfbc7dc5b37f2c7cd2138c72751b2aa7e843867bd1e89f39c0060
+CCTV4K,http://110.230.230.169:4000/udp/239.253.93.134:6631
+卫视,#genre# 
+北京卫视,http://tv.jkliu.cn:35455/itv/1000000005000265027.m3u8?cdn=ystenlive&Contentid=1000000005000265027
+东方卫视,http://tv.jkliu.cn:35455/itv/1000000005000265018.m3u8?cdn=ystenlive&Contentid=1000000005000265018
+浙江卫视,http://tv.jkliu.cn:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
+江苏卫视,http://tv.jkliu.cn:35455/itv/1000000001000001828.m3u8?cdn=ystenlive&Contentid=1000000001000001828
+湖南卫视,http://tv.jkliu.cn:35455/itv/1000000005000265024.m3u8?cdn=ystenlive&Contentid=1000000005000265024
+广东卫视,http://tv.jkliu.cn:35455/itv/1000000001000014176.m3u8?cdn=ystenlive&Contentid=1000000001000014176
+深圳卫视,http://tv.jkliu.cn:35455/itv/1000000005000265028.m3u8?cdn=ystenlive&Contentid=1000000005000265028
+辽宁卫视,http://tv.jkliu.cn:35455/itv/1000000005000265022.m3u8?cdn=ystenlive&Contentid=1000000005000265022
+山东卫视,http://tv.jkliu.cn:35455/itv/1000000005000265019.m3u8?cdn=ystenlive&Contentid=1000000005000265019
+河南卫视,http://tv.jkliu.cn:35455/itv/5000000011000031119.m3u8?cdn=bestzb&Contentid=5000000011000031119
+安徽卫视,http://tv.jkliu.cn:35455/itv/1000000001000030159.m3u8?cdn=ystenlive&Contentid=1000000001000030159
+东南卫视,http://tv.jkliu.cn:35455/itv/1000000005000265033.m3u8?cdn=ystenlive&Contentid=1000000005000265033
+甘肃卫视,http://tv.jkliu.cn:35455/itv/5000000011000031121.m3u8?cdn=bestzb&Contentid=5000000011000031121
+广西卫视,http://tv.jkliu.cn:35455/itv/5000000011000031118.m3u8?cdn=bestzb&Contentid=5000000011000031118
+贵州卫视,http://tv.jkliu.cn:35455/itv/5000000004000025843.m3u8?cdn=bestzb&Contentid=5000000004000025843
+海南卫视,http://tv.jkliu.cn:35455/itv/5000000004000006211.m3u8?cdn=bestzb&Contentid=5000000004000006211
+河北卫视,http://tv.jkliu.cn:35455/itv/5000000006000040016.m3u8?cdn=bestzb&Contentid=5000000006000040016
+黑龙江卫视,http://tv.jkliu.cn:35455/itv/1000000001000001925.m3u8?cdn=ystenlive&Contentid=1000000001000001925
+湖北卫视,http://tv.jkliu.cn:35455/itv/1000000001000024621.m3u8?cdn=ystenlive&Contentid=1000000001000024621
+吉林卫视,http://tv.jkliu.cn:35455/itv/5000000011000031117.m3u8?cdn=bestzb&Contentid=5000000011000031117
+江西卫视,http://tv.jkliu.cn:35455/itv/1000000006000268001.m3u8?cdn=ystenlive&Contentid=1000000006000268001
+青海卫视,http://tv.jkliu.cn:35455/itv/1000000002000013359.m3u8?cdn=ystenlive&Contentid=1000000002000013359
+四川卫视,http://tv.jkliu.cn:35455/itv/5000000004000006119.m3u8?cdn=bestzb&Contentid=5000000004000006119
+天津卫视,http://tv.jkliu.cn:35455/itv/1000000005000265026.m3u8?cdn=ystenlive&Contentid=1000000005000265026
+云南卫视,http://tv.jkliu.cn:35455/itv/5000000011000031120.m3u8?cdn=bestzb&Contentid=5000000011000031120
+重庆卫视,http://tv.jkliu.cn:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096
+
+||四川移动,#genre#
+ CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+ CCTV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+ CCTV-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+ CCTV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+ CCTV-5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+ CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+ CCTV-6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+ CCTV-7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+ CCTV-8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+ CCTV-9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+ CCTV-10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+ CCTV-10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+ CCTV-11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+ CCTV-11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+ CCTV-12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+ CCTV-12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
+ CCTV-13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+ CCTV-13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+ CCTV-13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
+ CCTV-14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
+ CCTV-14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+ CCTV-15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+ CCTV-15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+ CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+ CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+ CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
+ 哈尔滨影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
+
+ 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
+ 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
+ 黑龙江新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+ 黑龙江新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8
+ 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+ 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
+ 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+ 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
+ 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+ 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
+ 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+ 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
+ 黑龙江农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+ 黑龙江农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8
+ 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+ 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8
+ 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+ 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+ 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226254/index.m3u8
+ 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
+ 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
+ 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+ 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+ 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8
+ 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+ 北京卡酷,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+ 北京纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+ 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+ 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+ 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
+ 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+ 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8
+ 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8
+ 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+ 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226507/index.m3u8
+ 山东教育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+ 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
+ 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+ 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+ 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
+ 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
+ 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+ 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
+ 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
+ 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+ 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
+ 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+ 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
+ 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
+ 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+ 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+ 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
+ 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+ 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+ 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226513/index.m3u8
+ 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+ 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+ 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+ 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
+ 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8
+ 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+ 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
+ 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+ 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+ 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+ 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
+ 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+ 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+ 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+ 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226501/index.m3u8
+ 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+ 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8
+ 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+ 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+ 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226495/index.m3u8
+ 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+ 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+ 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
+ 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+ 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+ 纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+ 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+ 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8
+ 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+ 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+ 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226504/index.m3u8
+ 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+ 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8
+ 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
+ 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+ 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8
+ 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+ 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+ 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226510/index.m3u8
+ 大湾区卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
+ 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
+ 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+ 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+ 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
+ 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
+ 古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+ 精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+ 爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+ 军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+ 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+ 家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+ 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+||福建移动,#genre#
+
+CCTV1,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=cctv1
+CCTV2,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=cctv2
+
+CCTV3,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=cctv3
+CCTV4,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=cctv4
+CCTV5,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=cctv5
+CCTV6,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=cctv6
+CCTV7,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=cctv7
+CCTV8,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=cctv8
+
+CCTV9,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=cctv9
+CCTV10,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=cctv10
+CCTV11,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=cctv11
+CCTV12,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=cctv12
+CCTV13,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=cctv13
+CCTV14,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=cctv14
+陕西卫视,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=sxws
+江西卫视,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=jxws
+江苏卫视,http://nn.7x9d.cn/%E7%BB%84%E6%92%AD/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.php?id=jsws
+||咪咕高清,#genre#
+CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV16,https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1bd24faccb628652629.m3u8
+CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
+||咪咕高清2,#genre#
+cctv1综合,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Epd7QgO4HFWH0z34SUb2Vs%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192714%2C%2C%2C20240420192714%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
+cctv2财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fe8M_1QCWSd35gkY-Q1BSH%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192539%2C%2C%2C20240420192539%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
+cctv4国际,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EfCf-e5nKehMQzrOBwWduf%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192542%2C%2C%2C20240420192542%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
+cctv7军事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fc_MEUOVd0CBbc2BFzAJH_%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192548%2C%2C%2C20240420192548%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
+cctv9纪录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EqTu3rtglooDaG_6P7QG0G%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192550%2C%2C%2C20240420192550%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
+cctv10科教,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7Egbbk6OxyTS2utbJWm7Qw1w%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7G2pNzf8WZUYdQj6fRj0xqk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192551%2C%2C%2C20240420192551%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
+cctv11戏曲,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fu7CeinMHJqra3zokMRz7n%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192552%2C%2C%2C20240420192552%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
+cctv12社会与法,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E9nVa4WyKpuJgFy6Zh4TplQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HnJxyKiyVyy_NI7qKUlh3o%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192553%2C%2C%2C20240420192553%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
+cctv13新闻,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7FeVpwiXzm8Z1FT0IzXPiAe%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192554%2C%2C%2C20240420192554%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
+cctv14少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EgtTqPYLE5COifF-qvYi2Ig%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Gjz8eIMyPUF5CKBM1zLuEZ%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192555%2C%2C%2C20240420192555%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
+cctv15音乐,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Ggfx09IYQ0HOnjH2d6pZUp%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192557%2C%2C%2C20240420192557%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
+cctv17农业农村,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
+||北京IPTV高清,#genre#
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+TVB 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+华视频道,rtmp://f13h.mine.nu/sat/tv111
+中视频道,rtmp://f13h.mine.nu/sat/tv091
+台视频道,rtmp://f13h.mine.nu/sat/tv071
+民视频道,rtmp://f13h.mine.nu/sat/tv051
+新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+||台弯高清AK,#genre#
+NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+NewTV明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+NewTV军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+NewTV精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+NewTV海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+NewTV精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+NewTV精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+NewTV军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+NewTV家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+NewTV武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+NewTV农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+NewTV潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+NewTV超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+NewTV超级电视??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NewTV炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+NewTV欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+||NewTV高清,#genre#
+
+SING女团风陵渡口,https://vdse.bdstatic.com//a499dfbec34060ce0f380ea789446f07.mp4
+韩国女团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
+韩国女团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
+韩国女团003,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
+韩国女团004,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
+韩国女团005,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
+韩国女团006,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
+韩国女团007,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
+韩国女团008,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+韩国女团009,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
+韩国女团010,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
+韩国女团011,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
+韩国女团012,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
+韩国女团013,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240025046562.mp4
+韩国女团014,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240145171654.mp4
+韩国女团015,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
+韩国女团016,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
+韩国女团017,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239910253332.mp4
+韩国女团018,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
+韩国女团019,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
+韩国女团020,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
+韩国女团021,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
+韩国女团022,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
+||女团高清,#genre#
+广场舞,https://txmov2.a.kwimgs.com/upic/2022/05/10/07/BMjAyMjA1MTAwNzUyMTdfOTU2MzA3MDg4Xzc0MDY5ODk4ODkxXzJfMw==_b_B46351dd76db1f05450736c479fe62b5c.mp4?clientCacheKey=3xizrsbv57j32eg_b.mp4&tt=b&di=24719082&bp=10000
+??月光情人,https://txmov2.a.kwimgs.com/upic/2022/05/11/07/BMjAyMjA1MTEwNzAyMzhfOTU2MzA3MDg4Xzc0MTM2MTE3MDk2XzJfMw==_b_B8089317c7c55ffa4bac7b77dbb15d224.mp4?clientCacheKey=3xya3asx4xsxena_b.mp4&tt=b&di=2471843f&bp=13380
+??旧梦,https://txmov2.a.kwimgs.com/upic/2022/05/13/05/BMjAyMjA1MTMwNTQzNTdfOTU2MzA3MDg4Xzc0MjcyMzg1NTY3XzJfMw==_b_B2dc0a00dda9afcecc75926fd06788fc8.mp4?clientCacheKey=3xfefbbiat6ra6u_b.mp4&tt=b&di=7b8b3d17&bp=10000
+??小城,https://alimov2.a.kwimgs.com/upic/2022/05/13/05/BMjAyMjA1MTMwNTU1NDBfOTU2MzA3MDg4Xzc0MjcyNjQzMzQwXzJfMw==_b_Bbd6117a54c703ee711acc5321708b5be.mp4?clientCacheKey=3x5d44cd98k9zgk_b.mp4&tt=b&di=7b8b3d17&bp=10000
+??你家大门前,https://alimov2.a.kwimgs.com/upic/2022/07/09/06/BMjAyMjA3MDkwNjQ3NThfOTU2MzA3MDg4Xzc4Njk4NzY2NDU2XzJfMw==_b_B48caa1769240f9c28e28e2ad4b569139.mp4?clientCacheKey=3xepbpxtkizh444_b.mp4&tt=b&di=24716050&bp=10000
+好好珍惜爱的人,https://txmov2.a.kwimgs.com/upic/2022/07/06/08/BMjAyMjA3MDYwODEyMThfOTU2MzA3MDg4Xzc4NDUyOTY0MzY1XzJfMw==_b_Bbdb6ae8d1793789987ea407d95fe1275.mp4?clientCacheKey=3xn8vcptpqc5q9k_b.mp4&tt=b&di=2471916f&bp=10000
+人生不过三杯酒,https://txmov2.a.kwimgs.com/upic/2022/07/05/16/BMjAyMjA3MDUxNjM5MzdfOTU2MzA3MDg4Xzc4NDA1MzQzMDQ0XzJfMw==_b_B63895eae4fd0188457c70bef3ea16368.mp4?clientCacheKey=3xykyqvexp927xm_b.mp4&tt=b&di=2471916f&bp=10000
+??策马情歌,https://alimov2.a.kwimgs.com/upic/2022/05/26/05/BMjAyMjA1MjYwNTUzNDdfOTU2MzA3MDg4Xzc1MjYyNzkwMTY1XzJfMw==_b_Bb09b659e53ab1746c396c104f5cfdb7a.mp4?clientCacheKey=3x7vyj9mzted89u_b.mp4&tt=b&di=df68a296&bp=10000
+家乡的姑娘真漂亮,https://txmov2.a.kwimgs.com/upic/2022/05/30/06/BMjAyMjA1MzAwNjA2MTJfOTU2MzA3MDg4Xzc1NTgwMzY3NDY1XzJfMw==_b_B824cd9dc976d27015261c65bed6114f0.mp4?clientCacheKey=3x6i3ubsmu8sygm_b.mp4&tt=b&di=24710b76&bp=10000
+??月下情缘,https://alimov2.a.kwimgs.com/upic/2022/05/30/05/BMjAyMjA1MzAwNTAzNTlfOTU2MzA3MDg4Xzc1NTcxNjI4NjcyXzJfMw==_b_Bd55404d325f7b6b4bdc799a6562adc7a.mp4?clientCacheKey=3xw869dy37pki9k_b.mp4&tt=b&di=24710b76&bp=10000
+??北江美,https://txmov2.a.kwimgs.com/upic/2022/07/05/16/BMjAyMjA3MDUxNjMzMzFfOTU2MzA3MDg4Xzc4NDA1MDI2OTU5XzJfMw==_b_B7b64d434a76d8476fa88de00e76496ee.mp4?clientCacheKey=3xg4c82buiwywxw_b.mp4&tt=b&di=2471916f&bp=10000
+入了情的人,https://txmov2.a.kwimgs.com/upic/2022/05/15/06/BMjAyMjA1MTUwNjU5MzFfOTU2MzA3MDg4Xzc0NDQ0NzUzMTAxXzJfMw==_b_B7470be25009d89805ca6cf722ecb498e.mp4?clientCacheKey=3xurnm2vgj7g44e_b.mp4&tt=b&di=247190d5&bp=10000
+相遇那么美,https://alimov2.a.kwimgs.com/upic/2022/05/10/08/BMjAyMjA1MTAwODA1NThfOTU2MzA3MDg4Xzc0MDcwNDAzNzMxXzJfMw==_b_B184bd34b9ad0609efc72e1085c1402e6.mp4?clientCacheKey=3xrhfp8z3nj5vnk_b.mp4&tt=b&di=24719082&bp=10000
+??自己美,https://alimov2.a.kwimgs.com/upic/2022/05/12/11/BMjAyMjA1MTIxMTM4NThfOTU2MzA3MDg4Xzc0MjE4MDcwMTU2XzJfMw==_b_B56ef1a8255c2b22f475319b2da7819a9.mp4?clientCacheKey=3xpkrzppugh6mtk_b.mp4&tt=b&di=24710b15&bp=10000
+??小可爱,https://alimov2.a.kwimgs.com/upic/2022/05/12/11/BMjAyMjA1MTIxMTM2MDhfOTU2MzA3MDg4Xzc0MjE3OTA0MTcxXzJfMw==_b_Bbeb31659bff7891ce7e68893d786a5c3.mp4?clientCacheKey=3xk23z5mkig7jec_b.mp4&tt=b&di=24710b15&bp=10000
+山那边,https://alimov2.a.kwimgs.com/upic/2022/05/12/08/BMjAyMjA1MTIwODUxMDRfOTU2MzA3MDg4Xzc0MjA5MTAwMjAzXzJfMw==_b_B2862d8a760125751a5225f1758ef5a47.mp4?clientCacheKey=3x43573qtdk8ntu_b.mp4&tt=b&di=24710b15&bp=10000
+草原上最美的姑娘,https://alimov2.a.kwimgs.com/upic/2022/05/12/11/BMjAyMjA1MTIxMTIyMDNfOTU2MzA3MDg4Xzc0MjE3MTA2ODM3XzJfMw==_b_B42ecf15e138ea5b3fc699db51dcccd7a.mp4?clientCacheKey=3xnybt9w8ks8guq_b.mp4&tt=b&di=24710b15&bp=10000
+何必西天万里遥,https://txmov2.a.kwimgs.com/upic/2022/05/12/11/BMjAyMjA1MTIxMTE1MDZfOTU2MzA3MDg4Xzc0MjE2NzI2ODM2XzJfMw==_b_B18a5ca5056ce37b8a1a4f945200e7cb6.mp4?clientCacheKey=3xzp335bteewipc_b.mp4&tt=b&di=24710b15&bp=10000
+甜蜜蜜,https://alimov2.a.kwimgs.com/upic/2022/05/12/08/BMjAyMjA1MTIwODUyNTZfOTU2MzA3MDg4Xzc0MjA5MTk5NTEzXzJfMw==_b_Bed65d2117b15f1124a4a799e7ee95fed.mp4?clientCacheKey=3xcwyrpkgu2v2k6_b.mp4&tt=b&di=24710b15&bp=10000
+走在人生的路口,https://alimov2.a.kwimgs.com/upic/2022/05/13/05/BMjAyMjA1MTMwNTU2MzlfOTU2MzA3MDg4Xzc0MjcyNjY1NDMyXzJfMw==_b_B82cc373a578ca8269c33b98bf1a9ec82.mp4?clientCacheKey=3xim5k9jgv9c7g2_b.mp4&tt=b&di=7b8b3d17&bp=10000
+水月亮,http://media4.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D970&root=/mnt/wfs88&pt=/e40/7d&fileid=K0e407da8db513c75d4861eac032a45280.mp4&type=52&ui=MTAweWMyNE8xNDE3&ci=100yc24O1417036202203310836304mn&cn=%E9%AC%BC%E6%AD%A5%E8%88%9E%E3%80%8A%E6%B0%B4%E6%9C%88%E4%BA%AE%E3%80%8B%E7%AE%80%E5%8D%9568%E6%AD%A5%EF%BC%8C%E6%AD%A3%E8%83%8C%E9%9D%A2%E6%BC%94%E7%A4%BA&ct=3&time=1648690151&exp=86400&code=F319D322880AE10272FF2D5BC590596EE1329F2630BA115FB7EE5D569B31F520&ec=1&bucketName=hcybf04
+走破几双鞋,https://alimov2.a.kwimgs.com/upic/2022/05/10/20/BMjAyMjA1MTAyMDE4MTBfOTU2MzA3MDg4Xzc0MTE0MjAxNTM5XzJfMw==_b_B47bd636e2f80429ceeda31ab774a20ea.mp4?clientCacheKey=3xmjqhfskmji5nu_b.mp4&tt=b&di=2471843f&bp=10000
+家在御江南,https://alimov2.a.kwimgs.com/upic/2022/05/14/06/BMjAyMjA1MTQwNjAxMDdfOTU2MzA3MDg4Xzc0MzUwMjExODI4XzJfMw==_b_Ba06bf43c61aefa199d5cb913986d88ae.mp4?clientCacheKey=3xwdrtzccag8fcs_b.mp4&tt=b&di=df68a243&bp=10000
+谁陪我到最后,https://txmov2.a.kwimgs.com/upic/2022/05/14/05/BMjAyMjA1MTQwNTM5MTRfOTU2MzA3MDg4Xzc0MzQ5Nzg1MTkwXzJfMw==_b_B0d78ac2acc32ba6bdda5e9b9ce452c5a.mp4?clientCacheKey=3x992kgmmdrgtts_b.mp4&tt=b&di=df68a243&bp=10000
+老男孩,https://txmov2.a.kwimgs.com/upic/2022/05/13/19/BMjAyMjA1MTMxOTEzMTFfOTU2MzA3MDg4Xzc0MzE4Mzk4NTMyXzJfMw==_b_B8b2cd9fb861b93c03801a5daaf0b5231.mp4?clientCacheKey=3x6hphh9prifiui_b.mp4&tt=b&di=df68a243&bp=10000
+听闻远方有你,https://txmov2.a.kwimgs.com/upic/2022/05/15/23/BMjAyMjA1MTUyMzExNTFfOTU2MzA3MDg4Xzc0NTIzODA1Njk3XzJfMw==_b_B1359c5778f5e7dda73f63442a6fe792c.mp4?clientCacheKey=3x4kn4atv5reym2_b.mp4&tt=b&di=24719066&bp=10000
+雪山阿佳,https://txmov2.a.kwimgs.com/upic/2022/05/15/21/BMjAyMjA1MTUyMTM4MDFfOTU2MzA3MDg4Xzc0NTE3MTQ4NDE2XzJfMw==_b_B4c0462b674c8dd550827427f5f508232.mp4?clientCacheKey=3xkcfjmdw2rxwv4_b.mp4&tt=b&di=7a61dca2&bp=10000
+晚秋,https://txmov2.a.kwimgs.com/upic/2022/05/15/21/BMjAyMjA1MTUyMTQ2MzJfOTU2MzA3MDg4Xzc0NTE3OTYyMTc5XzJfMw==_b_Be623a13bacee708ad853df23a146233a.mp4?clientCacheKey=3xsg2wfmqke5bc9_b.mp4&tt=b&di=7a61dca2&bp=10000
+燕无歇,https://alimov2.a.kwimgs.com/upic/2022/05/15/21/BMjAyMjA1MTUyMTUzMThfOTU2MzA3MDg4Xzc0NTE4NDk5NTUxXzJfMw==_b_Bf282359c98f44edb4e8feb136fe943f9.mp4?clientCacheKey=3xzk28xfm447ig2_b.mp4&tt=b&di=7a61dca2&bp=10000
+哥哥不要把我忘,https://alimov2.a.kwimgs.com/upic/2022/05/11/07/BMjAyMjA1MTEwNzIzMTlfOTU2MzA3MDg4Xzc0MTM2ODE2ODIyXzJfMw==_b_B34a8ce553bf382767cc3e00a3305ed0b.mp4?clientCacheKey=3x2ni3pijxtu7se_b.mp4&tt=b&di=24712050&bp=10000
+点燃一根烟,https://alimov2.a.kwimgs.com/upic/2022/05/16/18/BMjAyMjA1MTYxODU4NThfOTU2MzA3MDg4Xzc0NTczMDE1MjQ5XzJfMw==_b_B746d452d34b45ca092a246c5ed00c7e1.mp4?clientCacheKey=3xa89p6n3gqeyze_b.mp4&tt=b&di=2471806c&bp=13380
+心中最美的风景线,https://alimov2.a.kwimgs.com/upic/2022/05/16/18/BMjAyMjA1MTYxODUwNDhfOTU2MzA3MDg4Xzc0NTcyMzQ2MDQ0XzJfMw==_b_B23f482ec499f032e46fbeea3ea300102.mp4?clientCacheKey=3x28zf29nrdvs5g_b.mp4&tt=b&di=2471806c&bp=10000
+潇洒的走,https://alimov2.a.kwimgs.com/upic/2022/05/16/18/BMjAyMjA1MTYxODQ3MDZfOTU2MzA3MDg4Xzc0NTcyMDAzNDYyXzJfMw==_b_B17ec2b34cc891bd2b73658f16cb6b223.mp4?clientCacheKey=3xbwurtef4i8g3w_b.mp4&tt=b&di=2471806c&bp=13380
+何必西天万里遥1,https://alimov2.a.kwimgs.com/upic/2022/05/16/18/BMjAyMjA1MTYxODQwNThfOTU2MzA3MDg4Xzc0NTcxNTIwNzI4XzJfMw==_b_Bbb84c1cb7fcde72f03256f72ad1e3140.mp4?clientCacheKey=3xrme7b7q8ecg8s_b.mp4&tt=b&di=2471806c&bp=13380
+听心,https://alimov2.a.kwimgs.com/upic/2022/05/19/11/BMjAyMjA1MTkxMTAyMjdfOTU2MzA3MDg4Xzc0NzQ2NjY0Mjk5XzJfMw==_b_Be901f1d46b1cbf6f1791016dd7905d9f.mp4?clientCacheKey=3xtb7dudi96qgjk_b.mp4&tt=b&di=247166ac&bp=10000
+情歌轻轻唱,https://txmov2.a.kwimgs.com/upic/2022/05/19/08/BMjAyMjA1MTkwODEzMjFfOTU2MzA3MDg4Xzc0NzM4NTM3MzIwXzJfMw==_b_Bbfc85fc1485759dbbbcb92ebf537acd0.mp4?clientCacheKey=3xehzsxbwdg5hik_b.mp4&tt=b&di=24710b57&bp=10000
+虽然不能一起走,https://txmov2.a.kwimgs.com/upic/2022/05/19/08/BMjAyMjA1MTkwODA5NTJfOTU2MzA3MDg4Xzc0NzM4MzkwMDY0XzJfMw==_b_Bccb8fe314de4c46057eaa9100c4e7a96.mp4?clientCacheKey=3xhubqvizw8ak99_b.mp4&tt=b&di=24710b57&bp=10000
+小芳,https://txmov2.a.kwimgs.com/upic/2022/05/18/22/BMjAyMjA1MTgyMjA5NDRfOTU2MzA3MDg4Xzc0NzIzNzM0OTExXzJfMw==_b_B02e310fc5e250b5b7ff360052f0a26b4.mp4?clientCacheKey=3xgk78pcixnva3k_b.mp4&tt=b&di=24710b57&bp=10000
+马缨花情歌,https://txmov2.a.kwimgs.com/upic/2022/05/29/12/BMjAyMjA1MjkxMjQzMDVfOTU2MzA3MDg4Xzc1NTIwMDQ0NDIxXzJfMw==_b_Ba67dd2a268ed8f364665fa1dd316aa25.mp4?clientCacheKey=3xaeu9cx9kpz82c_b.mp4&tt=b&di=2471804b&bp=10000
+爱你一万年,https://txmov2.a.kwimgs.com/upic/2022/05/28/17/BMjAyMjA1MjgxNzAwNTNfOTU2MzA3MDg4Xzc1NDQ5MTc5MDgxXzJfMw==_b_B86b66fa638ba1b70c664281181494236.mp4?clientCacheKey=3xum6xgstd2jtym_b.mp4&tt=b&di=2471804b&bp=10000
+小河边,https://txmov2.a.kwimgs.com/upic/2022/05/25/06/BMjAyMjA1MjUwNjU2MTlfOTU2MzA3MDg4Xzc1MTk4MzkxODExXzJfMw==_b_B3ae24817e9cee1d7c9f3fc43de52e681.mp4?clientCacheKey=3xp2zzfi72x2sag_b.mp4&tt=b&di=24710a62&bp=10000
+愿你1,https://txmov2.a.kwimgs.com/upic/2022/05/26/05/BMjAyMjA1MjYwNTQwNDhfOTU2MzA3MDg4Xzc1MjYyNTM0ODAwXzJfMw==_b_B7fdec9006e5c36bf5c22ddc9f8c5e1b2.mp4?clientCacheKey=3xutfpk9husksxi_b.mp4&tt=b&di=24710ab2&bp=10000
+二十年后再相会,https://alimov2.a.kwimgs.com/upic/2022/05/26/05/BMjAyMjA1MjYwNTI4MTJfOTU2MzA3MDg4Xzc1MjYyMjk3MzIxXzJfMw==_b_B39c4359419fad2026c8bfb9a83ff1a23.mp4?clientCacheKey=3xvzxad77zsf6am_b.mp4&tt=b&di=24710ab2&bp=10000
+天涯,https://alimov2.a.kwimgs.com/upic/2022/07/07/08/BMjAyMjA3MDcwODA2NTNfOTU2MzA3MDg4Xzc4NTM1NDEyNjYwXzJfMw==_b_B0c9fcb84428d549c840c7c999deb3036.mp4?clientCacheKey=3xjx4v3diw3m3p2_b.mp4&tt=b&di=2471916f&bp=10000
+听闻远方有你、,https://alimov2.a.kwimgs.com/upic/2022/06/01/05/BMjAyMjA2MDEwNTM2MzRfOTU2MzA3MDg4Xzc1NzEzOTQ2NzEzXzJfMw==_b_B24d15fb25143455f60ecaddee30c6966.mp4?clientCacheKey=3xxqv9wqtqsx62q_b.mp4&tt=b&di=24717162&bp=10000
+来生不再错过你,https://txmov2.a.kwimgs.com/upic/2022/06/01/06/BMjAyMjA2MDEwNjA2MjVfOTU2MzA3MDg4Xzc1NzE0NjQ0NDA2XzJfMw==_b_Be4694551f0fb8a2da2ec6995a845f3a3.mp4?clientCacheKey=3x2v8qpiegirm5s_b.mp4&tt=b&di=24717162&bp=10000
+九月九的酒,https://txmov2.a.kwimgs.com/upic/2022/05/31/06/BMjAyMjA1MzEwNjM0MzNfOTU2MzA3MDg4Xzc1NjQ4MTkyNzI1XzJfMw==_b_B03de42b67a7cf66e527e985a47d4bd70.mp4?clientCacheKey=3x373zjkw9eb7ra_b.mp4&tt=b&di=24717162&bp=10000
+老乡,https://alimov2.a.kwimgs.com/upic/2022/06/01/05/BMjAyMjA2MDEwNTUzMzhfOTU2MzA3MDg4Xzc1NzE0MzQ1Mjc3XzJfMw==_b_Be2830ac29eb4a0099147eceab25fa6bb.mp4?clientCacheKey=3xqptvqfdyquhcy_b.mp4&tt=b&di=24717162&bp=10000
+往事只能回味,https://txmov2.a.kwimgs.com/upic/2022/06/01/06/BMjAyMjA2MDEwNjEyMjZfOTU2MzA3MDg4Xzc1NzE0NzcwMTc5XzJfMw==_b_B55a73f3d2ceffe4c8f6105e440e73c59.mp4?clientCacheKey=3x6icrhwkc744by_b.mp4&tt=b&di=24717162&bp=10000
+幸福快车,https://alimov2.a.kwimgs.com/upic/2022/06/01/06/BMjAyMjA2MDEwNjEzNDRfOTU2MzA3MDg4Xzc1NzE0ODQ1NzUxXzJfMw==_b_B6fe42cefd98c69426c5799a01242484b.mp4?clientCacheKey=3x2kes7dvbgp7dc_b.mp4&tt=b&di=24717162&bp=10000
+你在家乡还好吗,https://alimov2.a.kwimgs.com/upic/2022/05/25/04/BMjAyMjA1MjUwNDU4NDVfOTU2MzA3MDg4Xzc1MTk1NzI1OTIzXzJfMw==_b_B65ccf167f2af2a1c5842f9388923a053.mp4?clientCacheKey=3xegjvepyzf5e62_b.mp4&tt=b&di=24710a62&bp=10000
+爱情一阵风,https://txmov2.a.kwimgs.com/upic/2022/07/07/08/BMjAyMjA3MDcwODA5MDNfOTU2MzA3MDg4Xzc4NTM1NTMwMjk5XzJfMw==_b_B55fe48cd9d4afa1d04d057e5f333410a.mp4?clientCacheKey=3xck4e2fi7t6mmm_b.mp4&tt=b&di=2471916f&bp=10000
+小眼神儿,https://txmov2.a.kwimgs.com/upic/2022/07/07/08/BMjAyMjA3MDcwODIzMTRfOTU2MzA3MDg4Xzc4NTM2MTQ5OTYxXzJfMw==_b_B45d7a028f27ee3f9cca5fcdc4038f144.mp4?clientCacheKey=3x4ph7cewwcczjm_b.mp4&tt=b&di=2471916f&bp=10000
+阿哥阿妹,https://alimov2.a.kwimgs.com/upic/2022/07/08/05/BMjAyMjA3MDgwNTU4MTdfOTU2MzA3MDg4Xzc4NjE0MDEwMjMwXzJfMw==_b_B75f243545ddb21b58515238525c62f5b.mp4?clientCacheKey=3xbm43ezks2svqs_b.mp4&tt=b&di=2471916f&bp=10000
+情难枕,https://txmov2.a.kwimgs.com/upic/2022/08/13/05/BMjAyMjA4MTMwNTMxNDdfOTU2MzA3MDg4XzgxNjgyMzYyMTYyXzJfMw==_b_B5286e8e7c86602d95bf257ca8d281cc9.mp4?clientCacheKey=3x3xxvukpkyrrs4_b.mp4&tt=b&di=24710b75&bp=10000
+日夜盼郎归,https://alimov2.a.kwimgs.com/upic/2022/08/13/06/BMjAyMjA4MTMwNjA3MTFfOTU2MzA3MDg4XzgxNjgzMDAzMTY0XzJfMw==_b_Ba2e83739e35dd78c76778c9e047f3fa2.mp4?clientCacheKey=3xwj7ijb4zyimq9_b.mp4&tt=b&di=24710b75&bp=10000
+凤凰飞.,https://txmov2.a.kwimgs.com/upic/2022/08/10/07/BMjAyMjA4MTAwNzIwNTVfOTU2MzA3MDg4XzgxNDM3MDI4MDIyXzJfMw==_b_Bdf440f3ac06360bf07f335476f5f3506.mp4?clientCacheKey=3x5ygijyhtgefmi_b.mp4&tt=b&di=24710b75&bp=10000
+你。,https://alimov2.a.kwimgs.com/upic/2022/08/09/16/BMjAyMjA4MDkxNjUyNDhfOTU2MzA3MDg4XzgxMzkxMzYyNDY3XzJfMw==_b_B87bc342694d7ce606b4f4801193772a2.mp4?clientCacheKey=3xbj4rirtm6w6fk_b.mp4&tt=b&di=24710b75&bp=10000
+等一分钟,https://alimov2.a.kwimgs.com/upic/2022/07/26/16/BMjAyMjA3MjYxNjI0MDhfOTU2MzA3MDg4XzgwMTgzNzU0OTA1XzJfMw==_b_B3ea3acb4692496b3c3da93f996efa4e4.mp4?clientCacheKey=3xmskg6vdnzgjja_b.mp4&tt=b&di=24710b75&bp=10000
+最幸福的人.,https://alimov2.a.kwimgs.com/upic/2022/08/04/17/BMjAyMjA4MDQxNzM2MzhfOTU2MzA3MDg4XzgwOTY2Mjg0MjQzXzJfMw==_b_B07fe12c7c644056cb2399c4f4e78748a.mp4?clientCacheKey=3xwasxxvxxc44mk_b.mp4&tt=b&di=24710b75&bp=10000
+心在跳情在烧。,https://alimov2.a.kwimgs.com/upic/2022/07/23/05/BMjAyMjA3MjMwNTEwMDZfOTU2MzA3MDg4Xzc5ODg3NTQ0MTE4XzJfMw==_b_B88a6b639a9d60d490656e6508f8568c2.mp4?clientCacheKey=3xcsxyvzjaez5da_b.mp4&tt=b&di=24710b75&bp=10000
+最美的情歌,https://alimov2.a.kwimgs.com/upic/2022/07/21/07/BMjAyMjA3MjEwNzI1MzhfOTU2MzA3MDg4Xzc5NzIyMTczMTE1XzJfMw==_b_B6bb244b521cda3931122385bb9beb6a4.mp4?clientCacheKey=3xtyuyxm53kxhzm_b.mp4&tt=b&di=24710b75&bp=10000
+DJ秒针,https://txmov2.a.kwimgs.com/upic/2022/07/21/07/BMjAyMjA3MjEwNzAyNTBfOTU2MzA3MDg4Xzc5NzIxNDMzMTcxXzJfMw==_b_B666ff3cf77d82a485c48b6254b259319.mp4?clientCacheKey=3xjsnx48968xk6c_b.mp4&tt=b&di=24710b75&bp=10000
+日夜盼郎归,https://alimov2.a.kwimgs.com/upic/2022/07/18/11/BMjAyMjA3MTgxMTM3MjdfOTU2MzA3MDg4Xzc5NDg0MDExMjM5XzJfMw==_b_Bb4e4f046559d79a76e371e4f91c638d7.mp4?clientCacheKey=3x4krpjyzqzu8ji_b.mp4&tt=b&di=24710b75&bp=10000
+你是我的格桑花,https://txmov2.a.kwimgs.com/upic/2022/07/18/06/BMjAyMjA3MTgwNjQxMDhfOTU2MzA3MDg4Xzc5NDY3OTgzODU1XzJfMw==_b_B78ffe1199c915fd2c57c40135b74d875.mp4?clientCacheKey=3x8dtq9b6sisbai_b.mp4&tt=b&di=24710b75&bp=10000
+我相信,https://alimov2.a.kwimgs.com/upic/2022/07/17/07/BMjAyMjA3MTcwNzI4NDZfOTU2MzA3MDg4Xzc5MzgxODE5NzExXzJfMw==_b_B0a9119594c10120021431396a0029870.mp4?clientCacheKey=3xa59d2nuxy9uba_b.mp4&tt=b&di=24710b75&bp=10000
+逛人间,https://txmov2.a.kwimgs.com/upic/2022/07/21/07/BMjAyMjA3MjEwNzEwMThfOTU2MzA3MDg4Xzc5NzIxNjE5NzUxXzJfMw==_b_Be11565689f0d51f5c2a8b1ca67ea8de9.mp4?clientCacheKey=3xdapbcvr3ejyxi_b.mp4&tt=b&di=24710b75&bp=10000
+大雁往南飞,https://txmov2.a.kwimgs.com/upic/2022/07/21/07/BMjAyMjA3MjEwNzEzNDlfOTU2MzA3MDg4Xzc5NzIxODQxNDI1XzJfMw==_b_B065ed5040725be1f3516460a9395e0c7.mp4?clientCacheKey=3xjkrn3ddf644g4_b.mp4&tt=b&di=24710b75&bp=10000
+九寨沟的春天,https://alimov2.a.kwimgs.com/upic/2022/07/21/06/BMjAyMjA3MjEwNjQ4MzJfOTU2MzA3MDg4Xzc5NzIxMDA4MzQ0XzJfMw==_b_B10deede5ad0c041ec3821d4ad1adf7b3.mp4?clientCacheKey=3xs27j4i9jfz5si_b.mp4&tt=b&di=24710b75&bp=10000
+梦中的姑娘,https://txmov2.a.kwimgs.com/upic/2022/07/20/09/BMjAyMjA3MjAwOTA1MjRfOTU2MzA3MDg4Xzc5NjQyNDkxMTY5XzJfMw==_b_B22041e119808d60b7ee69174193e5a77.mp4?clientCacheKey=3x5uvg5vhw9gvg6_b.mp4&tt=b&di=24710b75&bp=10000
+斯卡布罗集市,https://alimov2.a.kwimgs.com/upic/2022/05/30/06/BMjAyMjA1MzAwNjQ1NDVfOTU2MzA3MDg4Xzc1NTgxNDY2MTE5XzJfMw==_b_Ba5053caeb26d09e5fb1eb0d12c66c7db.mp4?clientCacheKey=3xxvedwpctepipm_b.mp4&tt=b&di=247170fe&bp=13380
+天际,https://txmov2.a.kwimgs.com/upic/2022/07/05/17/BMjAyMjA3MDUxNzA0MTVfOTU2MzA3MDg4Xzc4NDA3MjEyNzExXzJfMw==_b_B0c770ad9b73e8c2b9b161417f27ba25f.mp4?clientCacheKey=3xc5tjpkn2punuq_b.mp4&tt=b&di=24719032&bp=10000
+情人桥,https://alimov2.a.kwimgs.com/upic/2022/07/13/06/BMjAyMjA3MTMwNjI4NDRfOTU2MzA3MDg4Xzc5MDM5MjkxMzU2XzJfMw==_b_B1edf6c3d4e69f8fc6574a14cd990fa89.mp4?clientCacheKey=3xvhgyywgxn2vhy_b.mp4&tt=b&di=24712025&bp=10000
+来生不再错过你米灵,https://txmov2.a.kwimgs.com/upic/2022/07/08/13/BMjAyMjA3MDgxMzI1MTVfOTU2MzA3MDg4Xzc4NjM4NDA5MDI4XzJfMw==_b_B70bc385ccc3aa0f6d674ae2d9a306f50.mp4?clientCacheKey=3xmfvue766rf6ua_b.mp4&tt=b&di=247171aa&bp=10000
+爱你给我一身伤、,https://alimov2.a.kwimgs.com/upic/2022/07/14/19/BMjAyMjA3MTQxOTAyNDhfOTU2MzA3MDg4Xzc5MTc1MzE0ODAzXzJfMw==_b_Bec5bbb1e73df5532c5584400f331bb47.mp4?clientCacheKey=3xvycz7gk3nagkm_b.mp4&tt=b&di=2471922b&bp=10000
+伤狼,https://alimov2.a.kwimgs.com/upic/2022/07/12/19/BMjAyMjA3MTIxOTI0NDZfOTU2MzA3MDg4Xzc5MDA3MzM2MDMzXzJfMw==_b_B54254d2775bef7575779a95fdf5360b2.mp4?clientCacheKey=3x4cxib45c6ajmy_b.mp4&tt=b&di=24717172&bp=10000
+一吻红尘,https://txmov2.a.kwimgs.com/upic/2022/06/24/23/BMjAyMjA2MjQyMzEzMTJfOTU2MzA3MDg4Xzc3NTM4NTQ0MjEyXzJfMw==_b_B4bc4b0d96dbea3a7657d4edb6efa7973.mp4?clientCacheKey=3xrhutt2ubegrwa_b.mp4&tt=b&di=24710b6c&bp=10000
+蹦迪舞,https://alimov2.a.kwimgs.com/upic/2022/07/02/07/BMjAyMjA3MDIwNzAyMDNfOTU2MzA3MDg4Xzc4MTA4MDAxMzk0XzJfMw==_b_Bfcd019b7f5d8a79e52bd36828d224b88.mp4?clientCacheKey=3x5mxtxxi3tjqpw_b.mp4&tt=b&di=24710b6c&bp=10000
+相思的债,https://alimov2.a.kwimgs.com/upic/2022/06/26/11/BMjAyMjA2MjYxMTU1NDlfOTU2MzA3MDg4Xzc3NjU2NjE2NDkxXzJfMw==_b_B0784f824d7943115e0d9f253fd451391.mp4?clientCacheKey=3xzfe2fit9hx27w_b.mp4&tt=b&di=24710b6c&bp=10000
+恋采依,https://alimov2.a.kwimgs.com/upic/2022/06/26/11/BMjAyMjA2MjYxMTUxMDhfOTU2MzA3MDg4Xzc3NjU2MjcwNzY5XzJfMw==_b_Bcc3a2c0b903c48fd958599fec937adf2.mp4?clientCacheKey=3xsrd8tqkjr6rq2_b.mp4&tt=b&di=24710b6c&bp=10000
+哥爱妹来妹爱哥,https://alimov2.a.kwimgs.com/upic/2022/06/26/11/BMjAyMjA2MjYxMTA3MDhfOTU2MzA3MDg4Xzc3NjUyNzI1NzA3XzJfMw==_b_Bf3a1427e4afc3293923d51c253e9264d.mp4?clientCacheKey=3xrigwypant9nes_b.mp4&tt=b&di=24710b6c&bp=10000
+凤凰飞、,https://alimov2.a.kwimgs.com/upic/2022/06/25/08/BMjAyMjA2MjUwODAwMTZfOTU2MzA3MDg4Xzc3NTUxODgxNjg2XzJfMw==_b_B5e03e28aa6e9f330126bd23ae51300e5.mp4?clientCacheKey=3xqff5yrxm4mkuu_b.mp4&tt=b&di=24710b6c&bp=10000
+红灯爱情路,https://alimov2.a.kwimgs.com/upic/2022/06/24/06/BMjAyMjA2MjQwNjI4NDJfOTU2MzA3MDg4Xzc3NDcxNzMxMTc2XzJfMw==_b_Be9b1fba0517cad9de861aa6f9df26ff5.mp4?clientCacheKey=3xu9k7vcujf4fki_b.mp4&tt=b&di=24710b6c&bp=10000
+伤心泪水流淌,https://txmov2.a.kwimgs.com/upic/2022/06/24/06/BMjAyMjA2MjQwNjI1NDdfOTU2MzA3MDg4Xzc3NDcxNjUxNjg2XzJfMw==_b_B6dd2a87ebb44e5dfd65b4f0537876376.mp4?clientCacheKey=3xfbciwk97qt6qu_b.mp4&tt=b&di=24710b6c&bp=10000
+红颜易老,https://alimov2.a.kwimgs.com/upic/2022/06/24/06/BMjAyMjA2MjQwNjI0MDdfOTU2MzA3MDg4Xzc3NDcxNjA4NDIzXzJfMw==_b_Bb511988b415e07ccdff834132b6284b2.mp4?clientCacheKey=3xixersiyrjf6qs_b.mp4&tt=b&di=24710b6c&bp=10000
+匆匆那年的缘,https://alimov2.a.kwimgs.com/upic/2022/06/25/08/BMjAyMjA2MjUwODAyMjZfOTU2MzA3MDg4Xzc3NTUxOTkyNjg5XzJfMw==_b_B9a1b751ed70d76300e1398276eb3e5e3.mp4?clientCacheKey=3xnkht7d7j92y8y_b.mp4&tt=b&di=24710b6c&bp=10000
+逛人间,https://alimov2.a.kwimgs.com/upic/2022/06/24/06/BMjAyMjA2MjQwNjIxNDVfOTU2MzA3MDg4Xzc3NDcxNTI0MjMyXzJfMw==_b_B2f1215851b976f7e7a1299e6199004ce.mp4?clientCacheKey=3x2ifrkycxvafn2_b.mp4&tt=b&di=24710b6c&bp=10000
+你是我的老公我是你的妻,https://alimov2.a.kwimgs.com/upic/2022/06/23/07/BMjAyMjA2MjMwNzAxNTZfOTU2MzA3MDg4Xzc3NDAwNDc3MjEwXzJfMw==_b_Bfc80758a46fbf63381f81f3e03572257.mp4?clientCacheKey=3x5kwvxxtkq4zaa_b.mp4&tt=b&di=24710b6c&bp=10000
+再爱你一回,https://txmov2.a.kwimgs.com/upic/2022/06/23/07/BMjAyMjA2MjMwNzAwNDFfOTU2MzA3MDg4Xzc3NDAwNDI5NzQwXzJfMw==_b_Badfe58254bbe58c8a4cdaa9a656272ac.mp4?clientCacheKey=3x7rriamkjduewy_b.mp4&tt=b&di=24710b6c&bp=10000
+当爱情离开的时候,https://alimov2.a.kwimgs.com/upic/2022/06/26/11/BMjAyMjA2MjYxMTE0MDJfOTU2MzA3MDg4Xzc3NjUzMjI3NTE0XzJfMw==_b_B676b4b032a9ddaeaf765119ae0736904.mp4?clientCacheKey=3xsmv69wytiw5bw_b.mp4&tt=b&di=24710b6c&bp=10000
+三月三唱山歌,https://alimov2.a.kwimgs.com/upic/2022/06/23/06/BMjAyMjA2MjMwNjU5MTNfOTU2MzA3MDg4Xzc3NDAwMzgxODExXzJfMw==_b_B8e881cf8b8bc16b989529315d81b4eb6.mp4?clientCacheKey=3xg3suuzb4prkgs_b.mp4&tt=b&di=24710b6c&bp=10000
+青木林里青木秧,https://alimov2.a.kwimgs.com/upic/2022/06/25/08/BMjAyMjA2MjUwODA0MDRfOTU2MzA3MDg4Xzc3NTUyMDc4NDUyXzJfMw==_b_Bdfb1a869fc4f8beecfcd271255ef8551.mp4?clientCacheKey=3xm4zscvg4nh73k_b.mp4&tt=b&di=24710b6c&bp=10000
+想你就能梦见你,https://alimov2.a.kwimgs.com/upic/2022/06/26/11/BMjAyMjA2MjYxMTE0MzdfOTU2MzA3MDg4Xzc3NjUzMDY1MTE4XzJfMw==_b_Bdc6dec3c6e000344fa8ca1aaa3ea5d8d.mp4?clientCacheKey=3xh4hfxi9294y7u_b.mp4&tt=b&di=24710b6c&bp=10000
+凤凰飞,https://alimov2.a.kwimgs.com/upic/2022/06/23/06/BMjAyMjA2MjMwNjU3MzFfOTU2MzA3MDg4Xzc3NDAwMzEyMzQxXzJfMw==_b_Bc4c9bf6711b2d6c2f7ea0d360dcd95ea.mp4?clientCacheKey=3xjs7bvgmjgaxy2_b.mp4&tt=b&di=24710b6c&bp=10000
+今生感恩遇见,https://txmov2.a.kwimgs.com/upic/2022/06/22/06/BMjAyMjA2MjIwNjEzNTdfOTU2MzA3MDg4Xzc3MzI3NTY0NTEyXzJfMw==_b_B848eab5d6990cb7eee8becb98697564c.mp4?clientCacheKey=3xbd5wwqjhu68hk_b.mp4&tt=b&di=24710b6c&bp=10000
+你的蝴蝶,https://txmov2.a.kwimgs.com/upic/2022/06/22/06/BMjAyMjA2MjIwNjEwNTZfOTU2MzA3MDg4Xzc3MzI3NDk4MDYwXzJfMw==_b_B54cbe2a62d1a0f17b394a2acd03ce38b.mp4?clientCacheKey=3xjrjndidphnbge_b.mp4&tt=b&di=24710b6c&bp=10000
+一颗心一个你,https://txmov2.a.kwimgs.com/upic/2022/06/22/06/BMjAyMjA2MjIwNjA5NDVfOTU2MzA3MDg4Xzc3MzI3NDY1NDE5XzJfMw==_b_B588e4e36daccdb642615009f2dd21cca.mp4?clientCacheKey=3xtythqkbshqf8c_b.mp4&tt=b&di=24710b6c&bp=10000
+干就完了,https://alimov2.a.kwimgs.com/upic/2022/06/22/06/BMjAyMjA2MjIwNjA4MTRfOTU2MzA3MDg4Xzc3MzI3NDE3NDcwXzJfMw==_b_Ba3d3b997963c87f32f06458d9acd0254.mp4?clientCacheKey=3x2ezqbaqf8qs3s_b.mp4&tt=b&di=24710b6c&bp=10000
+心儿甜花儿美,https://alimov2.a.kwimgs.com/upic/2022/06/22/05/BMjAyMjA2MjIwNTMzNTZfOTU2MzA3MDg4Xzc3MzI2NjczOTMwXzJfMw==_b_B5b13dc569f054e40f593b7d3c0932c90.mp4?clientCacheKey=3xkbhfpsjuwj9a4_b.mp4&tt=b&di=24710b6c&bp=10000
+酒醉的雨滴,https://txmov2.a.kwimgs.com/upic/2022/06/21/08/BMjAyMjA2MjEwODU4MzRfOTU2MzA3MDg4Xzc3MjYzODk5NjQ1XzJfMw==_b_B185fd027275708c3c30bffa0a8e348c4.mp4?clientCacheKey=3xy46sthcqj2wa2_b.mp4&tt=b&di=24710b6c&bp=10000
+爱谁谁,https://alimov2.a.kwimgs.com/upic/2022/06/18/07/BMjAyMjA2MTgwNzI3MzBfOTU2MzA3MDg4Xzc3MDEzNTIyNDA0XzJfMw==_b_B6b9db64edce77a6761edcdf5b56ccceb.mp4?clientCacheKey=3x8934ay8jwicwy_b.mp4&tt=b&di=24710b6c&bp=10000
+凤凰花开,https://txmov2.a.kwimgs.com/upic/2022/06/18/07/BMjAyMjA2MTgwNzIyNTdfOTU2MzA3MDg4Xzc3MDEzMzE0MjU5XzJfMw==_b_B2a29bdcf567e9966a530df3a4ca17b32.mp4?clientCacheKey=3xngqgm33b67e2i_b.mp4&tt=b&di=24710b6c&bp=10000
+相思的泪水,https://txmov2.a.kwimgs.com/upic/2022/06/18/07/BMjAyMjA2MTgwNzEyNTJfOTU2MzA3MDg4Xzc3MDEyODkxMDUyXzJfMw==_b_Bfb9b5e04deb24502c87adf5f0ba425f2.mp4?clientCacheKey=3xkxciyzx9v5vhc_b.mp4&tt=b&di=24710b6c&bp=10000
+爱你的心不停息,https://txmov2.a.kwimgs.com/upic/2022/06/18/07/BMjAyMjA2MTgwNzA1NTNfOTU2MzA3MDg4Xzc3MDEyNjUwNjAwXzJfMw==_b_B4ec7422f2cb5622a52281bdadbe29b77.mp4?clientCacheKey=3x6un4brzm67ekg_b.mp4&tt=b&di=24710b6c&bp=10000
+风又吹过八千里,https://txmov2.a.kwimgs.com/upic/2022/06/18/07/BMjAyMjA2MTgwNzAxNThfOTU2MzA3MDg4Xzc3MDEyNDkzNzU5XzJfMw==_b_Ba5cd9a2445fd2602409c4c10188c674d.mp4?clientCacheKey=3xrnrr329s623kq_b.mp4&tt=b&di=24710b6c&bp=10000
+梦中的兰花花、,https://alimov2.a.kwimgs.com/upic/2022/06/18/07/BMjAyMjA2MTgwNzAwMTNfOTU2MzA3MDg4Xzc3MDEyNDM3NzQxXzJfMw==_b_B8ce0d8b0b36479b4c85e5484f643198c.mp4?clientCacheKey=3xcz8xh96yhsqhm_b.mp4&tt=b&di=24710b6c&bp=10000
+西风楼,https://alimov2.a.kwimgs.com/upic/2022/06/18/06/BMjAyMjA2MTgwNjU4MzlfOTU2MzA3MDg4Xzc3MDEyMzg0MjEyXzJfMw==_b_B0efe9a84f77972be748f93807c2f1841.mp4?clientCacheKey=3xrejxaviwyi62q_b.mp4&tt=b&di=24710b6c&bp=10000
+相思飘过千万里,https://txmov2.a.kwimgs.com/upic/2022/06/18/06/BMjAyMjA2MTgwNjU2MjhfOTU2MzA3MDg4Xzc3MDEyMjkzMTk0XzJfMw==_b_Bb2126b5943d19df0d5c6be0733747dde.mp4?clientCacheKey=3xkpvhduhm6x89a_b.mp4&tt=b&di=24710b6c&bp=10000
+美丽的蝴蝶,https://alimov2.a.kwimgs.com/upic/2022/06/17/08/BMjAyMjA2MTcwODU4NDdfOTU2MzA3MDg4Xzc2OTQyMzE0Njk2XzJfMw==_b_Ba162194a81196de404d5663a18696579.mp4?clientCacheKey=3xkpdf983bny8b6_b.mp4&tt=b&di=24710b6c&bp=10000
+梦中的兰花花,https://txmov2.a.kwimgs.com/upic/2022/06/17/08/BMjAyMjA2MTcwODU3MTRfOTU2MzA3MDg4Xzc2OTQyMjI2Nzc2XzJfMw==_b_Ba64165f0edc3f6f95b3ec02108b0268c.mp4?clientCacheKey=3xf9eaxrkc5cy6y_b.mp4&tt=b&di=24710b6c&bp=10000
+有缘千里来相会,https://txmov2.a.kwimgs.com/upic/2022/06/16/06/BMjAyMjA2MTYwNjQwMDVfOTU2MzA3MDg4Xzc2ODY5MzI1NzkyXzJfMw==_b_Ba38c7f7be75b70a65d96edf903055f25.mp4?clientCacheKey=3xtptpz3h5cyx9q_b.mp4&tt=b&di=24710b6c&bp=10000
+陪在你身边,https://txmov2.a.kwimgs.com/upic/2022/06/16/06/BMjAyMjA2MTYwNjM4MTJfOTU2MzA3MDg4Xzc2ODY5MjY3NDc1XzJfMw==_b_B8f906dc3e2089218de53ac323ef768ee.mp4?clientCacheKey=3x4x78fwi368kqw_b.mp4&tt=b&di=24710b6c&bp=10000
+苦咖啡,https://alimov2.a.kwimgs.com/upic/2022/06/16/06/BMjAyMjA2MTYwNjM2MzZfOTU2MzA3MDg4Xzc2ODY5MjE5NzUyXzJfMw==_b_Baab54f9c87d496662aacc3c06fba6e83.mp4?clientCacheKey=3xx8mu3zf3tjqpw_b.mp4&tt=b&di=24710b6c&bp=10000
+夜太深、,https://txmov2.a.kwimgs.com/upic/2022/06/16/06/BMjAyMjA2MTYwNjM1MTJfOTU2MzA3MDg4Xzc2ODY5MTYzMjM5XzJfMw==_b_B01d61e72177b836733addc0d035000d5.mp4?clientCacheKey=3xzd2snu38qqjxu_b.mp4&tt=b&di=24710b6c&bp=10000
+想你的夜晚睡不着,https://txmov2.a.kwimgs.com/upic/2022/06/15/09/BMjAyMjA2MTUwOTAzMzBfOTU2MzA3MDg4Xzc2ODA3MzAzNTA0XzJfMw==_b_B81147bf3ed056402081c2ffb038036ad.mp4?clientCacheKey=3xgmciy3vkstysq_b.mp4&tt=b&di=24710b6c&bp=10000
+杯杯美酒大碗干,https://alimov2.a.kwimgs.com/upic/2022/06/15/06/BMjAyMjA2MTUwNjM3MzVfOTU2MzA3MDg4Xzc2ODAxOTY2MDc1XzJfMw==_b_B7c37015fa6e61d24c3049644aec1a488.mp4?clientCacheKey=3x9uw85r4qqxx3c_b.mp4&tt=b&di=24710b6c&bp=10000
+雨花石、,https://txmov2.a.kwimgs.com/upic/2022/06/15/06/BMjAyMjA2MTUwNjM1MTBfOTU2MzA3MDg4Xzc2ODAxOTAyMjI2XzJfMw==_b_B7adad3846903282e1275712860e91f3b.mp4?clientCacheKey=3xep5waav9ctiz9_b.mp4&tt=b&di=24710b6c&bp=10000
+爱在左情在右,https://txmov2.a.kwimgs.com/upic/2022/06/15/06/BMjAyMjA2MTUwNjMzMDdfOTU2MzA3MDg4Xzc2ODAxODQzNzczXzJfMw==_b_Bf9acc5a4d8db059e4011f5fa9ee29782.mp4?clientCacheKey=3xk6zk6qg47r73a_b.mp4&tt=b&di=24710b6c&bp=10000
+踩踩踩,https://txmov2.a.kwimgs.com/upic/2022/06/15/06/BMjAyMjA2MTUwNjMxMzFfOTU2MzA3MDg4Xzc2ODAxNzc2MzM2XzJfMw==_b_Bca2640c12d0c349843902b9b15836429.mp4?clientCacheKey=3xmcmgg52jhqrfg_b.mp4&tt=b&di=24710b6c&bp=10000
+情相依爱相守,https://txmov2.a.kwimgs.com/upic/2022/06/14/11/BMjAyMjA2MTQxMTE5NTZfOTU2MzA3MDg4Xzc2NzQ2OTAzOTA1XzJfMw==_b_Bcceb0e22ae8e393653ec9157995a98e7.mp4?clientCacheKey=3xe7y36yzk8tize_b.mp4&tt=b&di=24710b6c&bp=10000
+夜上海,https://txmov2.a.kwimgs.com/upic/2022/06/25/08/BMjAyMjA2MjUwODA1MTRfOTU2MzA3MDg4Xzc3NTUyMTIxMzIwXzJfMw==_b_B02f248afc38f71b802e4f701d8298503.mp4?clientCacheKey=3xpd5sve4kq4yk6_b.mp4&tt=b&di=24710b6c&bp=10000
+痛痛快快醉一回,https://alimov2.a.kwimgs.com/upic/2022/06/14/06/BMjAyMjA2MTQwNjI4MjhfOTU2MzA3MDg4Xzc2NzM0NjM0MTMyXzJfMw==_b_Beb539f5e8428e517085901284fd1bdd5.mp4?clientCacheKey=3xu4im2czmb225m_b.mp4&tt=b&di=24710b6c&bp=10000
+月光情人、,https://alimov2.a.kwimgs.com/upic/2022/06/14/06/BMjAyMjA2MTQwNjI2MzZfOTU2MzA3MDg4Xzc2NzM0NTczMzE0XzJfMw==_b_B555dcd419f3d429fa94ae547737a74c6.mp4?clientCacheKey=3xmwt7a33ng3we9_b.mp4&tt=b&di=24710b6c&bp=10000
+你准备好了吗,https://txmov2.a.kwimgs.com/upic/2022/06/12/10/BMjAyMjA2MTIxMDM0NTdfOTU2MzA3MDg4Xzc2NTk2MzA5Mzg4XzJfMw==_b_Bba68d37ce0b3ba19b9507411a18cd9ca.mp4?clientCacheKey=3xwpib7m7yashiy_b.mp4&tt=b&di=24710b6c&bp=10000
+情网,https://txmov2.a.kwimgs.com/upic/2022/06/13/11/BMjAyMjA2MTMxMTI1MTFfOTU2MzA3MDg4Xzc2Njc4OTk0Nzc2XzJfMw==_b_Bc60dfd3075034ae610ddc66063a5bc5d.mp4?clientCacheKey=3xu8qyzhzqn7vhs_b.mp4&tt=b&di=24710b6c&bp=10000
+不甘,https://txmov2.a.kwimgs.com/upic/2022/06/13/12/BMjAyMjA2MTMxMjE1MzlfOTU2MzA3MDg4Xzc2NjgxNzgyNjgyXzJfMw==_b_B78da87b527635890f822c9355cff3482.mp4?clientCacheKey=3xjarfmxsc76was_b.mp4&tt=b&di=24710b6c&bp=10000
+好好珍惜爱的人,https://txmov2.a.kwimgs.com/upic/2022/07/06/08/BMjAyMjA3MDYwODEyMThfOTU2MzA3MDg4Xzc4NDUyOTY0MzY1XzJfMw==_b_Bbdb6ae8d1793789987ea407d95fe1275.mp4?clientCacheKey=3xn8vcptpqc5q9k_b.mp4&tt=b&di=2471916f&bp=10000
+风中有朵雨做的云,https://txmov2.a.kwimgs.com/upic/2022/07/03/06/BMjAyMjA3MDMwNjM1MjJfOTU2MzA3MDg4Xzc4MTk4NTM1Mzk2XzJfMw==_b_B4e1045328a86ba67d557d0b5adc35009.mp4?clientCacheKey=3xt2vzxqdz3xzf2_b.mp4&tt=b&di=2471916f&bp=10000
+红尘烟火,https://alimov2.a.kwimgs.com/upic/2022/07/02/07/BMjAyMjA3MDIwNzAzNDZfOTU2MzA3MDg4Xzc4MTA4MDYwMTE3XzJfMw==_b_B32e5cdf02199d0bba06dc2b3368ab6ec.mp4?clientCacheKey=3xvdmpt9ym8gti4_b.mp4&tt=b&di=2471916f&bp=10000
+红灯爱情路,https://alimov2.a.kwimgs.com/upic/2022/07/01/10/BMjAyMjA3MDExMDQzMDZfOTU2MzA3MDg4Xzc4MDM0ODUxMTUwXzJfMw==_b_B60886acdc90a660f1b9bc0a2e3337053.mp4?clientCacheKey=3xeh4dggddz8x6q_b.mp4&tt=b&di=2471916f&bp=10000
+中华民谣,https://txmov2.a.kwimgs.com/upic/2022/07/01/10/BMjAyMjA3MDExMDQxMDBfOTU2MzA3MDg4Xzc4MDM0NzU0MTM5XzJfMw==_b_Bd7c020c9b5e3df621ea700fdefdc4840.mp4?clientCacheKey=3xyx8njwva8ebve_b.mp4&tt=b&di=2471916f&bp=10000
+忘记你我永远学不会,https://txmov2.a.kwimgs.com/upic/2022/07/01/10/BMjAyMjA3MDExMDM5NDFfOTU2MzA3MDg4Xzc4MDM0NjcwNDYwXzJfMw==_b_Bf9abb2f5c8a5fd3b0c5c8a59821f691c.mp4?clientCacheKey=3x4tupmxwps5ey4_b.mp4&tt=b&di=2471916f&bp=10000
+一颗心一个你,https://alimov2.a.kwimgs.com/upic/2022/06/30/09/BMjAyMjA2MzAwOTEyNTJfOTU2MzA3MDg4Xzc3OTUwOTM5MzY1XzJfMw==_b_Bc4cbf339fd6e0c8df8bc5a4747b3d27b.mp4?clientCacheKey=3xr9synekvf7t3w_b.mp4&tt=b&di=2471916f&bp=10000
+小眼神儿,https://alimov2.a.kwimgs.com/upic/2022/06/30/09/BMjAyMjA2MzAwOTEyNTJfOTU2MzA3MDg4Xzc3OTUwOTM5MzY1XzJfMw==_b_Bc4cbf339fd6e0c8df8bc5a4747b3d27b.mp4?clientCacheKey=3xr9synekvf7t3w_b.mp4&tt=b&di=2471916f&bp=10000
+想着你亲爱的,https://alimov2.a.kwimgs.com/upic/2022/06/30/09/BMjAyMjA2MzAwOTEyNDJfOTU2MzA3MDg4Xzc3OTUwNzczOTc1XzJfMw==_b_Ba3a40bd1acf6b5131b9993ae5507803d.mp4?clientCacheKey=3x2cn27m2f3ze8k_b.mp4&tt=b&di=2471916f&bp=10000
+你怎么说,https://alimov2.a.kwimgs.com/upic/2022/06/28/07/BMjAyMjA2MjgwNzQ4MDFfOTU2MzA3MDg4Xzc3Nzk5NDc0MjEwXzJfMw==_b_B984954b3169013e56e857a562cce008e.mp4?clientCacheKey=3xi3hgzjsud95qk_b.mp4&tt=b&di=2471916f&bp=10000
+浪炸天,https://alimov2.a.kwimgs.com/upic/2022/06/28/06/BMjAyMjA2MjgwNjUwMDJfOTU2MzA3MDg4Xzc3Nzk3NDQ1NDQ5XzJfMw==_b_B7d4c27a1061b07a4bfe35daa0008b04b.mp4?clientCacheKey=3xyanpcqgpsgjgy_b.mp4&tt=b&di=2471916f&bp=10000
+借酒浇愁,https://alimov2.a.kwimgs.com/upic/2022/08/03/06/BMjAyMjA4MDMwNjE5NTNfOTU2MzA3MDg4XzgwODMyMTEyNzEwXzJfMw==_b_B501f3056455fda422d20f6bb2f9e9187.mp4?clientCacheKey=3x2mjgs7dnjsexe_b.mp4&tt=b&di=2471916f&bp=10000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
