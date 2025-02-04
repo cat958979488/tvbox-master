@@ -1,4 +1,4 @@
-央视,#genre#
+||央视,#genre#
 CCTV-1综合,http://tv.jkliu.cn:35455/itv/1000000005000265001.m3u8?cdn=ystenlive&Contentid=1000000005000265001
 CCTV-2财经,http://tv.jkliu.cn:35455/itv/1000000001000023315.m3u8?cdn=ystenlive&Contentid=1000000001000023315
 CCTV-3综艺,http://tv.jkliu.cn:35455/itv/1000000005000265003.m3u8?cdn=ystenlive&Contentid=1000000005000265003
@@ -58,7 +58,7 @@ CCTV15,http://36.106.166.59:16777/udp/225.1.2.194:5002#http://z.b.bkpcp.top/m.ph
 CCTV16,http://36.106.166.59:16777/udp/225.1.2.237:5002#http://z.b.bkpcp.top/m.php?id=cctv16#http://www.douzhicloud.site:35455/itv/5000000008000023254.m3u8?cdn=bestzb#http://li0580.top:35455/rptv/G_CCTV-16-4K.m3u8?license=gitv
 CCTV17,http://36.106.166.59:16777/udp/225.1.2.52:5002#http://z.b.bkpcp.top/m.php?id=cctv17#http://jf.jxx2023.work:40446/tsfile/live/0019_1.m3u8?key=txiptv#https://tvpull.careryun.com/tv/cctv17.m3u8#https://www.freetv.top/migu/673168256.m3u8?migutoken=dff047a9026f526223c0ed1adbfabbe258e37787a9dbf6c13ddfa3dfc5be6fc055e4ec23f97b75ae545c0a460100ac52ba7ebcfbc7dc5b37f2c7cd2138c72751b2aa7e843867bd1e89f39c0060
 CCTV4K,http://110.230.230.169:4000/udp/239.253.93.134:6631
-卫视,#genre# 
+||卫视,#genre# 
 北京卫视,http://tv.jkliu.cn:35455/itv/1000000005000265027.m3u8?cdn=ystenlive&Contentid=1000000005000265027
 东方卫视,http://tv.jkliu.cn:35455/itv/1000000005000265018.m3u8?cdn=ystenlive&Contentid=1000000005000265018
 浙江卫视,http://tv.jkliu.cn:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
